@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2C8BBF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=dark&color=#2C8BBF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+my+name+is+Gabriel+Rezende+;I'm+from+Brazil,+São+Bernardo-do-Campo-SP+🗺;I+am+a+Back-End+Developer+;Be+Welcome!+😎)](https://git.io/typing-svg)
 
@@ -32,7 +32,7 @@
 <h3>Contact-me:</h3>
 <a href="https://github.com/rznd3" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2C8BBF?style=for-the-badge&logo=p&logoColor=white"></a>
 <a href="mailto:grezende310@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-2C8BBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/[bruno-de-araujo-tabatini](https://www.linkedin.com/in/gabriel-rezende-paiva/)-2465b520b/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gabriel-rezende-paiva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 #
