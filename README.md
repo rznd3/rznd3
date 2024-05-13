@@ -30,9 +30,8 @@
 
 <div align="center">
 <h3>Contact-me:</h3>
-<a href="https://github.com/rznd3" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2C8BBF?style=for-the-badge&logo=p&logoColor=white"></a>
-<a href="mailto:grezende310@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-2C8BBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/gabriel-rezende-paiva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:grezende310@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gabriel-rezende-paiva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 #
