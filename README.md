@@ -26,6 +26,9 @@
   
 </section>
 
+![Snake animation](https://github.com/rznd3/rznd3/blob/output/github-contribuition-grid-snake.svg)
+
+
 #
 
 <div align="center">
