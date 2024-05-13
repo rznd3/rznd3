@@ -1,16 +1,40 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2C8BBF&height=120&section=header"/>
 
-<!--
-**rznd3/rznd3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+my+name+is+Gabriel+Rezende+;I'm+from+Brazil,+São+Bernardo-do-Campo-SP+🗺;I+am+a+Back-End+Developer+;Be+Welcome!+😎)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Bruninho2104">
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=rznd3&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Bruninho2104&show_icons=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rznd3&layout=compact&langs_count=7&theme=radical"/>
+    
+<section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies: 👨‍💻
+
+
+<h3>Languages:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,python&perline=3)](https://skillicons.dev)
+
+<h3>Front-end:</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css&perline=4)](https://skillicons.dev)
+
+  <h3>Others:</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
+  
+</section>
+
+#
+
+<div align="center">
+<h3>Contact-me:</h3>
+<a href="https://github.com/rznd3" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2C8BBF?style=for-the-badge&logo=p&logoColor=white"></a>
+<a href="mailto:grezende310@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-2C8BBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/[bruno-de-araujo-tabatini](https://www.linkedin.com/in/gabriel-rezende-paiva/)-2465b520b/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+#
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#2C8BBF&height=120&section=footer"/>
